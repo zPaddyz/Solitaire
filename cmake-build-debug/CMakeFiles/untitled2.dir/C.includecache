@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/jul20/CLionProjects/untitled2/hehe.h
-
-C:/Users/jul20/CLionProjects/untitled2/main.c
+C:/Users/jul20/CLionProjects/untitled2/Header1.c
 stdio.h
 -
-hehe.h
-C:/Users/jul20/CLionProjects/untitled2/hehe.h
+string.h
+-
+malloc.h
+-
+stdlib.h
+-
 
